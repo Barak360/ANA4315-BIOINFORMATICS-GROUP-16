@@ -52,7 +52,7 @@ demonstrates the use of essential bioinformatics practices including:
 ## How to Run
 Clone the repository and run the Bash automation script:
 
-    git clone https://github.com/Barak369/ANA4315-Bioinformatics-CA1.git
+    git clone https://github.com/Barak360/ANA4315-BIOINFORMATICS-GROUP-16.git
     cd ANA4315-BIOINFORMATICS-GROUP16
     bash automate.sh
 
