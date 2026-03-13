@@ -41,20 +41,20 @@ demonstrates the use of essential bioinformatics practices including:
 
 ## Repository Structure
 - README.md
-- scripts/barak_johnson.py
-- scripts/salihu_usman.R
-- scripts/joshua_ezekiel.js
-- scripts/sulaiman_musa.java
-- scripts/mercy_moses.pl
-- output/results.csv
-- automate.sh
+- scripts/Barak360.py
+- script/Salihi_usman.R
+- scriptsJoshua_ezekiel.js
+- sripts/Sulaiman_musa.java
+- scripts/Mercy_moses.pl
+- output/group_data.csv
+- Run_workfloa.sh
 
 ## How to Run
 Clone the repository and run the Bash automation script:
 
     git clone https://github.com/Barak360/ANA4315-BIOINFORMATICS-GROUP-16.git
     cd ANA4315-BIOINFORMATICS-GROUP16
-    bash automate.sh
+    bash Run_workfloa.sh
 
 The script will automatically execute all member scripts and 
 generate the CSV output file in the output/ directory.
