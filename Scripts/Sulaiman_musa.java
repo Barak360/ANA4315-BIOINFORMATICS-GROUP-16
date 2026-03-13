@@ -1,4 +1,8 @@
-system.out.println("sulaiman musa");
-system.out.println("sulaimankroos@gmail.com");
-system.out.println("@sulaimankroos");
-system.out.println("epigenomics");
+public class SulaimanMusa {
+    public static void main(String[] args) {
+        System.out.println("Sulaiman Musa");
+        System.out.println("sulaimankroos@gmail.com");
+        System.out.println("@sulaimankroos");
+        System.out.println("Epigenomics");
+    }
+}
